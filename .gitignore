@@ -1,0 +1,4 @@
+wandb/
+*.pth
+
+.DS_Store
